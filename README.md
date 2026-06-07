@@ -1,6 +1,5 @@
 # MotaFernandes
-Escritório de Contabilidade
-Carol, montei como um documento de passagem para equipe, bem completo e já com direcionamento de conteúdo, marca, serviços, visual e tom. Usei como base a apresentação institucional da Mota Fernandes, o planejamento digital antigo, o arquivo de posts do Canva e o direcionamento mais recente que já tínhamos ajustado para conteúdos de gestão, caixa, DP, impostos e empreendedorismo real. A apresentação institucional traz a fundação em 2013, os serviços e diferenciais do escritório.  O planejamento digital antigo traz objetivos de marketing, público, canais, tom de voz, editorias e proposta visual.  O arquivo de posts mostra a linha atual de conteúdos educativos, datas, MEI, IRPF, certificado digital, finanças e gestão.  E o ajuste mais recente que fizemos reforça a direção de conteúdos mais conectados à dor prática do empreendedor, com CTA para falar com a Mota Fernandes. 
+
 
 OVERVIEW COMPLETO DA MOTA FERNANDES
 
